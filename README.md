@@ -2,10 +2,6 @@
 
 I appreciate you stopping by my online portfolio repository. This Flutter-powered website functions as a portfolio of my abilities, completed projects, credentials, and contact information. The responsive design of the website ensures that it functions and looks great on a variety of devices, including small Android phones and large desktop screens.
 
-## Live Demo
-
-You can explore the live version of the website [Click to see live demo]([https://hamad-anwar.github.io/Portfolio/#/](https://ambrishtripathi6974.github.io/ambrishtripathi6974.github.io-Portfolio/)).
-
 ## Screenshots
 
 <img width="1540" height="824" alt="image" src="https://github.com/user-attachments/assets/d5354922-95db-43f7-b80d-1dc1e355da03" />
@@ -49,7 +45,7 @@ The portfolio website is built using Flutter, a powerful open-source UI software
 To explore and interact with the portfolio website on your local machine, follow these steps:
 
 1. **Clone the Repository:**
-   git clone https://github.com/AmbrishTripathi6974/ambrish.git
+   git clone [https://github.com/AmbrishTripathi6974/ambrish.git](https://github.com/MohammadAdnan652/Adnan-Portfolio)
 2. **Install Dependencies:**
    flutter pub get
 3. **Run Application**
