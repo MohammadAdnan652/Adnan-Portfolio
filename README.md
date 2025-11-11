@@ -8,7 +8,8 @@ You can explore the live version of the website [Click to see live demo]([https:
 
 ## Screenshots
 
-<img src="showcase.png">
+<img width="1540" height="824" alt="image" src="https://github.com/user-attachments/assets/d5354922-95db-43f7-b80d-1dc1e355da03" />
+
 
 ## Table of Contents
 
